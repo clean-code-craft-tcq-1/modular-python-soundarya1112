@@ -1,3 +1,4 @@
+import colorDefinitions
 
 def get_color_from_pair_number(pair_number):
     zero_based_pair_number = pair_number - 1
